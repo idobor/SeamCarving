@@ -5,7 +5,7 @@ A project as part of TAU course "Fundamentals of Computer Graphics, Vision and I
 
 # How to Run
 Run as a command-line application with the following options:
-  --image_path (str)– An absolute/relative path to the image you want to process
+  --image_path (str)– An absolute/relative path to the image you want to process \n
   --output_dir (str)– The output directory where you will save your outputs.
   --height (int) – the output image height
   --width (int) – the output image width
